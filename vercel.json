@@ -1,8 +1,7 @@
 {
   "name": "luxe-property-site",
   "version": "1.0.0",
-  "type": "module",
-  "engines": {
+    "engines": {
     "node": "20.x"
   }
 }
